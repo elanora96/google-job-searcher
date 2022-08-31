@@ -1,3 +1,7 @@
+# Google Job Searcher
+
+Inspired by [this tiktok](https://www.tiktok.com/t/ZTRPBFm12/), this simple site builds a search for Google that enables fast job discovery
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
