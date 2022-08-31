@@ -91,7 +91,7 @@ const App = () => {
             label="After"
             state={after}
             stateFunction={setAfter}
-            type="text"
+            type="date"
             checkboxs={checkboxs}
             setCheckboxs={setCheckboxs}
           />
